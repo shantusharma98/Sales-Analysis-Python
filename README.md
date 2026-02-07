@@ -1,15 +1,14 @@
-📊 Sales Performance & Demand Analysis using Python
+Sales Performance & Demand Analysis using Python
 
-📌 Project Overview
+Project Overview
 This project performs an end-to-end sales analysis using Python to uncover insights related to revenue, profit, customer behavior, product demand, and geographic performance. The analysis demonstrates practical use of data analytics techniques commonly applied in real-world business scenarios.
 
-🛠️ Tools & Technologies
+Tools & Technologies
 Python
 NumPy – numerical operations
 Pandas – data cleaning, merging, and analysis
 Matplotlib – data visualization
-
-📂 Dataset Description
+Dataset Description
 The dataset consists of multiple CSV files representing sales transactions and supporting dimension tables:
 Sales data (2015, 2016, 2017)
 Customers
